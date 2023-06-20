@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav {
+    background-color: lightgrey;
+    height: 100px;
+    margin: 0 50px 0 50px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 20px 20px;
+    padding: 0 20px;
+}
+
+header {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 0 20px 0;
+}
+
+.searchbar {
+    border: 2px solid black;
+}
+
+.Login-button {
+    background-color: blue;
+    color: white;
+    box-shadow: 4px 4px black;
+}
+
+.left-side {
+    width: 500px;
+    padding: 50px;
+}
+
+.text{
+padding-bottom: 20px;
+text-align: center;
+}
+
+.top-left {
+    border: 4px solid black;
+    height: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.inner-text {
+    padding: 20px 20px 20px 20px;
+    height: 210px;
+    width: 100px;
+}
+
+.Likes-button {
+    background-color: orange;
+    box-shadow: 4px 4px black;
+    width: 80px;
+    height: 30px;
+}
+
+.lower-text {
+    padding: 20px 20px 20px 20px;
+    height: 210px;
+    width: 315px;
+}
+
+.text-middle{
+    padding-top: 80px;
+}
+
+.bottom-left {
+    border: 4px solid black;
+    height: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.top-right {
+    border: 4px solid black;
+    height: 150px;
+    margin: 50px;
+}
+
+.inner-text-right{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.Add-Definition-button {
+    background-color: darkolivegreen;
+    box-shadow: 4px 4px black;
+    height: 30px;
+    width: 150px;
+    
+}
